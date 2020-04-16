@@ -1,5 +1,5 @@
 # Overview
-Microsoft Icecaps is an open-source toolkit for building neural conversational systems.
+Microsoft Icecaps is an open-source toolkit for building neural conversational systems. You can find out more here https://www.microsoft.com/en-us/research/project/microsoft-icecaps/.
 
 # Docker image
 Here you can download a Dockerfile and setyp.py to automate the creation of a Docker Container that can run Icecaps.
