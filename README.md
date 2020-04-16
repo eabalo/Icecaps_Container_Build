@@ -15,6 +15,11 @@ You will need Docker to create the Docker Container. You can get Docker from htt
 2) Open Terminal and Change Directory to Icecaps_Container_Build
 3) Run docker image build -t container/icecaps:0.2.0 .
 `````
-
+#### Running Icecaps Examples
+`````
+1) Start and Open Container interactive
+2) Change Directory to /opt/icecaps/examples
+3) run "python train_simple_example.py
+`````
 
 document written when Icecaps 0.2.0 was available.
